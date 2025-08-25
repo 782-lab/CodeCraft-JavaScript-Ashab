@@ -26,3 +26,15 @@ Adding & Updating Properties
 };
 
 console.log(person.greet()); // Output: Hello, Ashab
+
+//Nested Objects
+
+const company = {
+  name: "TechCorp",
+  address: {
+    city: "Dehradun",
+    pincode: 248001
+  }
+};
+
+console.log(company.address.city); // Output: Dehradun
