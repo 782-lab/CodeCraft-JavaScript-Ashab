@@ -15,3 +15,14 @@ console.log(student["age"]); // Output: 21
 
 
 Adding & Updating Properties
+
+// Methods (Functions inside Objects)
+
+ const person = {
+  name: "Ashab",
+  greet: function() {
+    return "Hello, " + this.name;
+  }
+};
+
+console.log(person.greet()); // Output: Hello, Ashab
