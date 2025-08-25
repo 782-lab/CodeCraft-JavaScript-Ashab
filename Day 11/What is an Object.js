@@ -12,3 +12,6 @@ const student = {
 
 console.log(student.name);  // Output: Ashab
 console.log(student["age"]); // Output: 21
+
+
+Adding & Updating Properties
