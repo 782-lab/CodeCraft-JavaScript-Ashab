@@ -38,3 +38,12 @@ const company = {
 };
 
 console.log(company.address.city); // Output: Dehradun
+
+
+//Looping through Objects
+
+const car = { brand: "Tesla", model: "Model 3", year: 2025 };
+
+for (let key in car) {
+  console.log(key + ": " + car[key]);
+}
