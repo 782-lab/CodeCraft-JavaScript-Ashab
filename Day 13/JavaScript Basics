@@ -1,0 +1,27 @@
+ Topics to Learn:
+
+//Comparison Operators
+
+== vs ===
+
+!= vs !==
+
+>, <, >=, <=
+
+//Logical Operators
+
+&& (AND)
+
+|| (OR)
+
+! (NOT)
+
+//Conditional Statements
+
+if
+
+if...else
+
+if...else if...else
+
+Ternary Operator (? :)
