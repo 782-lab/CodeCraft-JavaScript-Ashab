@@ -8,5 +8,5 @@ function findLargest(a, b, c) {
   }
 }
 
-// Example
+
 findLargest(15, 42, 23);
