@@ -17,6 +17,6 @@ function calculator(a, b, operator) {
   }
 }
 
-// Example
+
 calculator(10, 5, "+");
 calculator(10, 5, "*");
