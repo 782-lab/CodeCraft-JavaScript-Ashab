@@ -10,5 +10,5 @@ function countVowels(str) {
   console.log(`Total vowels in "${str}": ${count}`);
 }
 
-// Example
+
 countVowels("Ashab Akhtar");
