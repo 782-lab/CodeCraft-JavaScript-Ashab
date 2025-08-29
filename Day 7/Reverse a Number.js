@@ -3,5 +3,4 @@ function reverseNumber(num) {
   console.log(`Reverse of ${num} is ${reversed}`);
 }
 
-// Example
 reverseNumber(12345);
