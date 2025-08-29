@@ -7,6 +7,5 @@ function isPalindrome(str) {
   }
 }
 
-// Example
 isPalindrome("madam");
 isPalindrome("hello");
