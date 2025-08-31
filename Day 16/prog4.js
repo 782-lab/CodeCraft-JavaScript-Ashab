@@ -1,4 +1,4 @@
-// Day 16 - Program 4: Chain: filter even → square → sum
+
 // Chain: filter even → square → sum
 const nums = [1,2,3,4,5,6,7,8];
 const result = nums
