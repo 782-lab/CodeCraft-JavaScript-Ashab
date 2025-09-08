@@ -1,5 +1,4 @@
-// Day 23 - Program 4: Unique Characters (string)
-// Unique Characters (string)
+
 function hasAllUnique(s){
   const set=new Set();
   for(const ch of s){ if(set.has(ch)) return false; set.add(ch); }
