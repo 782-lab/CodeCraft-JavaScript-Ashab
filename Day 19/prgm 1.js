@@ -8,4 +8,5 @@ function insertionSort(a){
   }
   return arr;
 }
+
 console.log(insertionSort([12,11,13,5,6]));
