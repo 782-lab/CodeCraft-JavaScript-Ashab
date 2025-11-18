@@ -11,4 +11,3 @@ function levenshtein(a,b){
   }
   return dp[m][n];
 }
-console.log("levenshtein:", levenshtein("kitten","sitting"));
