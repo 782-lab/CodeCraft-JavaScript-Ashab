@@ -1,4 +1,5 @@
-function countVowels(str) {
+function countVowels(str)
+{
   let vowels = "aeiouAEIOU";
   let count = 0;
 
