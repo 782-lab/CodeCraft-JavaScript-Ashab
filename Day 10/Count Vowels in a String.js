@@ -5,7 +5,8 @@ function countVowels(str)
 
   for (let char of str) 
   {
-    if (vowels.includes(char)) {
+    if (vowels.includes(char))
+    {
       count++;
     }
   }
